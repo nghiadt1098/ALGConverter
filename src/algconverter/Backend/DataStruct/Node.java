@@ -9,6 +9,10 @@ package algconverter.Backend.DataStruct;
  *
  * @author nghiadt
  */
-public class Node {
+public abstract class Node {
+    
+    Node parent;
+    Node main_child;
+    Node sub_child;
     
 }
